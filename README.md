@@ -1,1 +1,1 @@
-﻿# nextjs-truffle-tailwindcss-boilerplate
+﻿# next-truffle-tailwindcss-boilerplate
